@@ -1,0 +1,4 @@
+#Mon Nov 11 14:47:37 IST 2019
+base.0=/home/rails/Priyesh/Projects/mobileApp/android/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
