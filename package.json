@@ -13,7 +13,7 @@
     "@highcharts/highcharts-react-native": "^1.0.0",
     "react": "16.9.0",
     "react-highcharts": "^16.1.0",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "react-native-chart-kit": "^3.11.0",
     "react-native-gesture-handler": "^1.5.0",
     "react-native-highcharts": "^1.0.2",
